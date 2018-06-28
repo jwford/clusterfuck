@@ -1,0 +1,23 @@
+{
+  "name": "tuataria-bot-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for Tuataria bots",
+  "main": "bot.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tuataria/tuataria-bot-boilerplate.git"
+  },
+  "author": "Jonathan Ford",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tuataria/tuataria-bot-boilerplate/issues"
+  },
+  "homepage": "https://github.com/tuataria/tuataria-bot-boilerplate#readme",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord-akairo": "^7.5.4",
+    "discord.js": "^11.3.2",
+    "dotenv": "^6.0.0",
+    "escape-string-regexp": "^1.0.5"
+  }
+}
